@@ -1,0 +1,62 @@
+[
+  {
+    "username": "Jawad",
+    "password": "jaWad@11",
+    "email": "jawad123@gmail.com",
+    "role": "customer"
+  },
+  {
+    "username": "Hammad",
+    "password": "Hammad@1",
+    "email": "hammad12@gmail.com",
+    "role": "customer"
+  },
+  {
+    "username": "Ayaan",
+    "password": "Ay@@n123",
+    "email": "ayaan2010@gmail.com",
+    "role": "admin"
+  },
+  {
+    "username": "Ashar",
+    "password": "123456ashar",
+    "email": "ashar.rwd@outlook.com",
+    "role": "customer"
+  },
+  {
+    "username": "Akbar",
+    "password": "Ak@1234",
+    "email": "ak@gmail.com",
+    "role": "customer"
+  },
+  {
+    "username": "Hassaan",
+    "password": "Hasi@12",
+    "email": "hasii123@gmail.com",
+    "role": "customer"
+  },
+  {
+    "username": "Hamza",
+    "password": "Hamza@12",
+    "email": "hamza@gmial.com",
+    "role": "customer"
+  },
+  {
+    "username": "Muhammad Saad",
+    "password": "Wnke1669",
+    "email": "saad2006@gmail.com",
+    "role": "admin"
+  },
+  {
+    "username": "Mustafa",
+    "password": "Mustafa@123",
+    "email": "mu@gmail.com",
+    "role": "customer"
+  },
+  {
+    "username": "Ali",
+    "password": "Ali@12",
+    "email": "ali12@gmail.com",
+    "role": "customer"
+  }
+]

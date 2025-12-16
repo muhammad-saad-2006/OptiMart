@@ -1,0 +1,47 @@
+[
+  {
+    "orderId": "ORD001",
+    "username": "Mustafa",
+    "items": [
+      {
+        "product": {
+          "productId": "P011",
+          "name": "Men\u0027s Cotton T-Shirt",
+          "category": "Clothing",
+          "price": 1499.0,
+          "stock": 100,
+          "description": "Comfortable cotton t-shirt available in multiple colors"
+        },
+        "quantity": 5,
+        "effectivePrice": 1499.0
+      },
+      {
+        "product": {
+          "productId": "P025",
+          "name": "Dawlance Refrigerator",
+          "category": "Appliances",
+          "price": 84999.0,
+          "stock": 10,
+          "description": "Energy-efficient double-door refrigerator"
+        },
+        "quantity": 1,
+        "effectivePrice": 84999.0
+      },
+      {
+        "product": {
+          "productId": "P035",
+          "name": "Rich Dad Poor Dad",
+          "category": "Books",
+          "price": 1039.2,
+          "stock": 10,
+          "description": "Financial literacy book by Robert Kiyosaki [DEAL: 20% OFF]"
+        },
+        "quantity": 3,
+        "effectivePrice": 1039.2
+      }
+    ],
+    "totalAmount": 95611.6,
+    "status": "Pending",
+    "timestamp": "2025-12-13 22:49:11"
+  }
+]

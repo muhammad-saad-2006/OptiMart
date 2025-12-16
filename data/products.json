@@ -1,0 +1,418 @@
+[
+  {
+    "productId": "P011",
+    "name": "Men\u0027s Cotton T-Shirt",
+    "category": "Clothing",
+    "price": 1499.0,
+    "stock": 100,
+    "description": "Comfortable cotton t-shirt available in multiple colors"
+  },
+  {
+    "productId": "P012",
+    "name": "Women\u0027s Kurta",
+    "category": "Clothing",
+    "price": 2999.0,
+    "stock": 60,
+    "description": "Traditional Pakistani kurta with elegant design"
+  },
+  {
+    "productId": "P013",
+    "name": "Men\u0027s Jeans",
+    "category": "Clothing",
+    "price": 3499.0,
+    "stock": 50,
+    "description": "Slim fit denim jeans for men"
+  },
+  {
+    "productId": "P014",
+    "name": "Women\u0027s Jeans",
+    "category": "Clothing",
+    "price": 3999.0,
+    "stock": 45,
+    "description": "Comfortable skinny fit jeans for women"
+  },
+  {
+    "productId": "P015",
+    "name": "Formal Shirt",
+    "category": "Clothing",
+    "price": 2499.0,
+    "stock": 70,
+    "description": "Premium quality formal shirt for office wear"
+  },
+  {
+    "productId": "P016",
+    "name": "Winter Jacket",
+    "category": "Clothing",
+    "price": 6999.0,
+    "stock": 35,
+    "description": "Warm winter jacket with hood"
+  },
+  {
+    "productId": "P017",
+    "name": "Sports T-Shirt",
+    "category": "Clothing",
+    "price": 1999.0,
+    "stock": 70,
+    "description": "Breathable sports t-shirt for workouts"
+  },
+  {
+    "productId": "P018",
+    "name": "Shalwar Kameez",
+    "category": "Clothing",
+    "price": 4999.0,
+    "stock": 40,
+    "description": "Traditional Pakistani men\u0027s wear"
+  },
+  {
+    "productId": "P019",
+    "name": "Nike Air Max",
+    "category": "Footwear",
+    "price": 14999.0,
+    "stock": 30,
+    "description": "Comfortable running shoes from Nike"
+  },
+  {
+    "productId": "P020",
+    "name": "Adidas Superstar",
+    "category": "Footwear",
+    "price": 12999.0,
+    "stock": 23,
+    "description": "Classic Adidas sneakers"
+  },
+  {
+    "productId": "P021",
+    "name": "Formal Shoes",
+    "category": "Footwear",
+    "price": 5999.0,
+    "stock": 40,
+    "description": "Leather formal shoes for office wear"
+  },
+  {
+    "productId": "P022",
+    "name": "Peshawari Chappal",
+    "category": "Footwear",
+    "price": 1799.0,
+    "stock": 60,
+    "description": "Traditional handmade Pakistani footwear"
+  },
+  {
+    "productId": "P023",
+    "name": "Sports Shoes",
+    "category": "Footwear",
+    "price": 7999.0,
+    "stock": 35,
+    "description": "Comfortable sports shoes for gym and running"
+  },
+  {
+    "productId": "P024",
+    "name": "Sandals",
+    "category": "Footwear",
+    "price": 2499.0,
+    "stock": 50,
+    "description": "Casual sandals for summer wear"
+  },
+  {
+    "productId": "P025",
+    "name": "Dawlance Refrigerator",
+    "category": "Appliances",
+    "price": 84999.0,
+    "stock": 10,
+    "description": "Energy-efficient double-door refrigerator"
+  },
+  {
+    "productId": "P026",
+    "name": "Haier Washing Machine",
+    "category": "Appliances",
+    "price": 54999.0,
+    "stock": 12,
+    "description": "Fully automatic washing machine 7kg capacity"
+  },
+  {
+    "productId": "P027",
+    "name": "Kenwood Microwave",
+    "category": "Appliances",
+    "price": 19999.0,
+    "stock": 20,
+    "description": "Microwave oven with grill function"
+  },
+  {
+    "productId": "P028",
+    "name": "Philips Air Fryer",
+    "category": "Appliances",
+    "price": 24999.0,
+    "stock": 18,
+    "description": "Healthy cooking with 80% less fat"
+  },
+  {
+    "productId": "P029",
+    "name": "Anex Iron",
+    "category": "Appliances",
+    "price": 2999.0,
+    "stock": 40,
+    "description": "Steam iron for wrinkle-free clothes"
+  },
+  {
+    "productId": "P030",
+    "name": "Westpoint Blender",
+    "category": "Appliances",
+    "price": 6999.0,
+    "stock": 24,
+    "description": "Powerful blender for smoothies and juices"
+  },
+  {
+    "productId": "P031",
+    "name": "National Water Dispenser",
+    "category": "Appliances",
+    "price": 14999.0,
+    "stock": 15,
+    "description": "Hot and cold water dispenser"
+  },
+  {
+    "productId": "P032",
+    "name": "Orient Fan",
+    "category": "Appliances",
+    "price": 8999.0,
+    "stock": 30,
+    "description": "Ceiling fan with energy-efficient motor"
+  },
+  {
+    "productId": "P033",
+    "name": "Harry Potter Book Set",
+    "category": "Books",
+    "price": 12999.0,
+    "stock": 20,
+    "description": "Complete Harry Potter series collection"
+  },
+  {
+    "productId": "P034",
+    "name": "The Alchemist",
+    "category": "Books",
+    "price": 899.0,
+    "stock": 50,
+    "description": "Bestselling novel by Paulo Coelho"
+  },
+  {
+    "productId": "P035",
+    "name": "Rich Dad Poor Dad",
+    "category": "Books",
+    "price": 1299.0,
+    "stock": 40,
+    "description": "Financial literacy book by Robert Kiyosaki"
+  },
+  {
+    "productId": "P036",
+    "name": "Atomic Habits",
+    "category": "Books",
+    "price": 1499.0,
+    "stock": 35,
+    "description": "Self-improvement book by James Clear"
+  },
+  {
+    "productId": "P037",
+    "name": "Quran with Translation",
+    "category": "Books",
+    "price": 1999.0,
+    "stock": 60,
+    "description": "Holy Quran with Urdu translation"
+  },
+  {
+    "productId": "P038",
+    "name": "FIFA 23",
+    "category": "Gaming",
+    "price": 8999.0,
+    "stock": 25,
+    "description": "Latest FIFA football game for PlayStation"
+  },
+  {
+    "productId": "P039",
+    "name": "PlayStation 5 Controller",
+    "category": "Gaming",
+    "price": 14999.0,
+    "stock": 20,
+    "description": "DualSense wireless controller for PS5"
+  },
+  {
+    "productId": "P040",
+    "name": "Gaming Mouse",
+    "category": "Gaming",
+    "price": 3999.0,
+    "stock": 27,
+    "description": "RGB gaming mouse with programmable buttons"
+  },
+  {
+    "productId": "P041",
+    "name": "Mechanical Keyboard",
+    "category": "Gaming",
+    "price": 8999.0,
+    "stock": 22,
+    "description": "RGB mechanical keyboard for gaming"
+  },
+  {
+    "productId": "P042",
+    "name": "Gaming Headset",
+    "category": "Gaming",
+    "price": 5999.0,
+    "stock": 30,
+    "description": "Surround sound gaming headset with mic"
+  },
+  {
+    "productId": "P043",
+    "name": "Cricket Bat",
+    "category": "Sports",
+    "price": 4999.0,
+    "stock": 20,
+    "description": "English willow cricket bat"
+  },
+  {
+    "productId": "P044",
+    "name": "Football",
+    "category": "Sports",
+    "price": 2499.0,
+    "stock": 40,
+    "description": "FIFA approved match football"
+  },
+  {
+    "productId": "P001",
+    "name": "Samsung Galaxy S23",
+    "category": "Electronics",
+    "price": 189999.0,
+    "stock": 30,
+    "description": "Latest Samsung flagship smartphone with amazing camera"
+  },
+  {
+    "productId": "P045",
+    "name": "Yoga Mat",
+    "category": "Sports",
+    "price": 1999.0,
+    "stock": 47,
+    "description": "Non-slip yoga mat for exercises"
+  },
+  {
+    "productId": "P002",
+    "name": "iPhone 14 Pro",
+    "category": "Electronics",
+    "price": 279999.0,
+    "stock": 20,
+    "description": "Apple\u0027s premium smartphone with A16 Bionic chip"
+  },
+  {
+    "productId": "P046",
+    "name": "Dumbbells Set",
+    "category": "Sports",
+    "price": 6999.0,
+    "stock": 22,
+    "description": "Adjustable dumbbells 20kg set"
+  },
+  {
+    "productId": "P003",
+    "name": "Dell Inspiron Laptop",
+    "category": "Electronics",
+    "price": 124999.0,
+    "stock": 15,
+    "description": "14-inch laptop with Intel i5 processor and 8GB RAM"
+  },
+  {
+    "productId": "P047",
+    "name": "Badminton Racket",
+    "category": "Sports",
+    "price": 3499.0,
+    "stock": 30,
+    "description": "Professional badminton racket"
+  },
+  {
+    "productId": "P004",
+    "name": "HP Pavilion Laptop",
+    "category": "Electronics",
+    "price": 149999.0,
+    "stock": 11,
+    "description": "15.6-inch laptop with AMD Ryzen processor"
+  },
+  {
+    "productId": "P048",
+    "name": "Smartwatch",
+    "category": "Accessories",
+    "price": 12999.0,
+    "stock": 35,
+    "description": "Fitness tracker with heart rate monitor"
+  },
+  {
+    "productId": "P005",
+    "name": "Sony WH-1000XM5",
+    "category": "Electronics",
+    "price": 54999.0,
+    "stock": 30,
+    "description": "Premium noise-cancelling wireless headphones"
+  },
+  {
+    "productId": "P049",
+    "name": "Power Bank 20000mAh",
+    "category": "Accessories",
+    "price": 4999.0,
+    "stock": 50,
+    "description": "High capacity portable charger"
+  },
+  {
+    "productId": "P006",
+    "name": "JBL Flip 6",
+    "category": "Electronics",
+    "price": 18999.0,
+    "stock": 40,
+    "description": "Portable Bluetooth speaker with powerful sound"
+  },
+  {
+    "productId": "P007",
+    "name": "Samsung 43 inch TV",
+    "category": "Electronics",
+    "price": 74999.0,
+    "stock": 7,
+    "description": "4K UHD Smart LED TV with HDR support"
+  },
+  {
+    "productId": "P008",
+    "name": "LG 55 inch OLED TV",
+    "category": "Electronics",
+    "price": 229999.0,
+    "stock": 5,
+    "description": "Premium OLED TV with perfect blacks and colors"
+  },
+  {
+    "productId": "P009",
+    "name": "Canon EOS 1500D",
+    "category": "Electronics",
+    "price": 84999.0,
+    "stock": 8,
+    "description": "DSLR camera perfect for beginners"
+  },
+  {
+    "productId": "P050",
+    "name": "Phone Case",
+    "category": "Accessories",
+    "price": 799.0,
+    "stock": 96,
+    "description": "Shockproof protective phone case"
+  },
+  {
+    "productId": "P051",
+    "name": "Rolex Watch",
+    "category": "Watch",
+    "price": 2000.0,
+    "stock": 10,
+    "description": "no"
+  },
+  {
+    "productId": "P052",
+    "name": "Apple Headphone",
+    "category": "Electronics",
+    "price": 5000.0,
+    "stock": 30,
+    "description": "New Apple Head Sets with best conditions"
+  },
+  {
+    "productId": "P010",
+    "name": "GoPro Hero 11",
+    "category": "Electronics",
+    "price": 64999.0,
+    "stock": 15,
+    "description": "Action camera with 5.3K video recording"
+  }
+]
